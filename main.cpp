@@ -9,7 +9,11 @@
 #include "assignment5/Assignment5.h"
 
 // Change this line to switch between the assignments
+<<<<<<< HEAD
 #define APPLICATION Assignment3
+=======
+#define APPLICATION Assignment2
+>>>>>>> f3786b0c511ffb88378e3bd098750587565f3fbe
 // For example:
 // #define APPLICATION Assignment2
 // #define APPLICATION Assignment3
